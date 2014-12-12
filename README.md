@@ -10,3 +10,5 @@
 ## Find the bug!
 
 Once you've added RSpec and capybara, spec the entire crud flow, and find and fix the bug.
+
+[![Build Status](https://travis-ci.org/ErikaLim/rails-practice-add-rspec.svg?branch=master)](https://travis-ci.org/ErikaLim/rails-practice-add-rspec)
